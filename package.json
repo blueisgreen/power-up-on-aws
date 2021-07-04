@@ -1,7 +1,14 @@
 {
   "name": "powerup-project",
+  "description": "Project for Power Up Interactive Magazine, hosted on AWS.",
+  "author": {
+    "name": "Happy Spirit Publishing",
+    "url": "https://www.happyspiritpublishing.com",
+    "email": "support@happyspiritpublishing.com"
+  },
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
